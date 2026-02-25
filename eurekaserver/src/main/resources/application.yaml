@@ -16,7 +16,7 @@ management:
     readiness-state:
       enabled: true
     liveness-state:
-      enebaled: true
+      enabled: true
   endpoint:
     health:
       probes:
